@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samson Moses Agbenyo
 
-> A versatile **Web & Mobile (Flutter) Developer** and **Product Designer** with **5+ years of experience** dedicated to crafting end-to-end digital experiences. I bridge the gap between user-centered design and robust cross-platform architecture, turning complex problems into intuitive, high-performing applications from concept to production.
+> A versatile **Web & Mobile (Flutter) Developer** and **Product Designer** with **5+ years of experience** dedicated to crafting end-to-end digital experiences. I bridge the gap between user-centered design and robust cross-platform architecture, turning complex problems into intuitive, high-performing applications from concept to production..
 
 ---
 
